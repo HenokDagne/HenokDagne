@@ -43,14 +43,12 @@
 
 ---
 
-## 📫 Contact with me
+## Contact with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@hnk__43-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hnk_43)
 
-[![Email](https://img.shields.io/badge/Email-henokdagne19%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:henokdagne19@gmail.com
+[![Email](https://img.shields.io/badge/Email-henokdagne19%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:henokdagne19@gmail.com)
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/henok3685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henok3685" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/henok-dagne-0b7a112a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henok-dagne-0b7a112a3/" height="30" width="40" /></a>

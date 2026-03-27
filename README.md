@@ -35,7 +35,10 @@
 	https://github.com/HenokDagne/ALX-Social-Media-Capstone-Project
 - **game_hub** — Next.js + Prisma Game Hub
 	https://github.com/HenokDagne/game_hub
+- *news_share** _ flutter + supabase
+	https://github.com/HenokDagne/news_share_app
 ---
+
 
 
 ---

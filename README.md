@@ -11,6 +11,18 @@ I'm a passionate software engineer and tech enthusiast dedicated to building imp
 - 🤝 Love collaborating with other developers and contributing to the open source community.
 - 💬 Ask me about anything related to JavaScript, Python, or modern web frameworks.
 
+# Hi there! I'm Henok 👋
+
+Welcome to my GitHub profile!  
+I'm a passionate software engineer and tech enthusiast dedicated to building impactful and scalable solutions.
+
+## 🚀 About Me
+
+- 🧑‍💻 Currently working on several open source and personal projects.
+- 🌱 Always learning: I strive to keep up with the latest technologies in web development, cloud, and AI.
+- 🤝 Love collaborating with other developers and contributing to the open source community.
+- 💬 Ask me about anything related to JavaScript, Python, or modern web frameworks.
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
@@ -33,7 +45,7 @@ I'm a passionate software engineer and tech enthusiast dedicated to building imp
 ## 🌍 Let's Connect
 
 - LinkedIn: [linkedin.com/in/henokdagne](https://www.linkedin.com/in/henokdagne)
-- Twitter: [@Henok_Dagne](https://twitter.com/Henok_Dagne)
+- Twitter: [@Henok_Dagne]((https://x.com/Henok_Dagne))
 
 ## 📫 How to reach me
 
@@ -43,4 +55,3 @@ I'm a passionate software engineer and tech enthusiast dedicated to building imp
 ---
 
 *Thanks for stopping by! If you like what you see, feel free to ⭐️ my repositories and let’s connect!*
-

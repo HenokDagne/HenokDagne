@@ -33,7 +33,9 @@ Python · Django · JavaScript · TypeScript · Node.js · Next.js · Dart · Fl
 - **game_hub** — Next.js + Prisma Game Hub
 	https://github.com/HenokDagne/game_hub
 - **portfolio** — Personal portfolio
+ - **portfolio** — Personal portfolio
 	https://github.com/HenokDagne/portfolio
+	https://henokdagne.vercel.app/
 
 ---
 
@@ -49,6 +51,7 @@ Python · Django · JavaScript · TypeScript · Node.js · Next.js · Dart · Fl
 - LinkedIn: https://www.linkedin.com/in/henok-dagne-0b7a112a3/
 - GitHub: https://github.com/HenokDagne
 - Email: henokdagne19@gmail.com
+ - Portfolio: https://henokdagne.vercel.app/
 
 ---
 

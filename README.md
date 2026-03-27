@@ -35,11 +35,6 @@
 	https://github.com/HenokDagne/ALX-Social-Media-Capstone-Project
 - **game_hub** — Next.js + Prisma Game Hub
 	https://github.com/HenokDagne/game_hub
-- **portfolio** — Personal portfolio
- - **portfolio** — Personal portfolio
-	https://github.com/HenokDagne/portfolio
-	https://henokdagne.vercel.app/
-
 ---
 
 

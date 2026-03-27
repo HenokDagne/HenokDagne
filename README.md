@@ -52,22 +52,3 @@
  
 
 ---
-
-## 🎯 Looking for your input
-
-Please confirm or supply the following for a final README:
-
-1. **Current role / job title** (e.g., "Back-end Engineer at X")
-2. **Short tagline** you prefer (one-liner)
-3. **Which 3 projects** you want pinned/featured (I used BuySphere, Advanced-Features-and-Security, ALX-Social-Media-Capstone-Project)
-4. **Fun fact or hobby** (optional)
-5. **Quote or motto** (optional)
-
----
-
-If you want, I can now:
-
- - generate a README.md with badges and repo cards ready to paste into your profile repo, or
- - commit the README directly to this repo (`profil.md` → `README.md`) if you approve the content.
-
-Made from public data on https://github.com/HenokDagne — tell me what to change and I'll apply it.

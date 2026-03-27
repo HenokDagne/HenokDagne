@@ -45,10 +45,11 @@
 
 ## 📫 Contact with me
 
-- Telegram: https://t.me/hnk_43
-- LinkedIn: https://www.linkedin.com/in/henok-dagne-0b7a112a3/
-- GitHub: https://github.com/HenokDagne
-- Email: henokdagne19@gmail.com
+[![Telegram](https://img.shields.io/badge/Telegram-@hnk__43-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hnk_43)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henok%20Dagne-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henok-dagne-0b7a112a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-HenokDagne-181717?style=for-the-badge&logo=github)](https://github.com/HenokDagne)
+[![Email](https://img.shields.io/badge/Email-henokdagne19%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:henokdagne19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-site-7B61FF?style=for-the-badge&logo=vercel)](https://henokdagne.vercel.app/)
  
 
 ---

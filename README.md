@@ -40,9 +40,6 @@
 ---
 
 
-
----
-
 ## Contact with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@hnk__43-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/hnk_43)
